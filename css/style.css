@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav.navbar.navbar-expand-lg {
+    /* background: red; */
+    /* width: 98%; */
+    /* margin: auto; */
+    padding-top: 25px;
+}
+ .yellow-bg{
+    background-color: #fcdb00;
+ }
+ .slider {
+    background-color: #fcdb00;
+    height: 85vh;
+    padding: 10vh;
+}
+.carousel {
+    position: relative;
+    margin: 20px 15px;
+}
+ .carousel h2{
+    font-size: 2.5rem;
+}
+ .carousel h6{
+    font-size: 1.5rem;
+    width: 75%;
+    margin-top: 25px;
+}
+ .carousel p{
+    margin-top: 25px;
+    width: 75%;
+}
+
+ .icon-carousel{
+    font-size: 40px;
+    /* margin-right: 25px; */
+    /* color: black; */
+}
+i.fa-brands.fa-apple {
+    color: black;
+}
+i.fa-brands.fa-android {
+    color: black;
+}
+i.fa-brands.fa-windows {
+    color: black;
+}
+ .mobile-phone{
+    width: 100%;
+    /* margin-left: 5%; */
+ }
+ .mobile-phone img{
+    margin-left: 15%;
+}
+i.fa-brands.fa-android {
+    padding: 0px 25px;
+    /* color: black; */
+}
+
+div#menu-bar {
+    margin-right: 12%;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+li.nav-item {
+    /* margin-left: 50px; */
+    /* padding-left: 45px; */
+    padding: 0px 30px;
+}
+.icon-display {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.icon-feature{
+    font-size: 25px;
+}
+.icon-description {
+    margin-left: 20px;
+}
+.icon-description h5{
+    /* margin-top: 10px; */
+}
+.icon-description p{}
+.feature{
+    text-align: center;
+    margin: 70px 0px;
+}
+.features-section{}
+.features-section h3{
+    margin-bottom: 25px;
+}
+.features-section p{
+    width: 50%;
+    margin: auto;
+    font-weight: 500;
+}
+
+.touch-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.keep-in-touch{}
+.keep-in-touch h3{
+    /* margin-bottom: 15px; */
+}
+.keep-in-touch p{
+    width: 50%;
+    margin: auto;
+    font-weight: 500;
+}
+.form-submit{
+    text-align: center;
+    margin: 50px 0px;
+}
+input[type=text] {
+    width: 50%;
+    padding: 15px;
+    border-radius: 5px;
+    border: unset;
+    outline: none;
+}
+
+.btn-primary {
+    background-color: #fcdb00;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.form-icon{
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+}
+.fa-facebook-square{
+    margin-right: 15px;
+}
+
+.fa-twitter-square{
+    margin-right: 15px;
+}
+
+.fa-google-plus-square{
+    margin-right: 15px;
+}
+
+.fa-linkedin-square{
+    margin-right: 15px;
+}
+
+.footer-design{}
+.footer-center{}
+.address{}
+.address ul{
+    list-style: none;
+}
+.address ul li{}
+.address ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
